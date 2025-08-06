@@ -5,7 +5,7 @@ This is my personal portfolio website, carefully designed with smooth animations
 
 ## Live Demo
 
-**Deploying Soon**
+[Click here to view it live](https://nacs-portfolio.netlify.app/) 
 
 ## Tech Stack
 
@@ -16,7 +16,7 @@ This is my personal portfolio website, carefully designed with smooth animations
 ## Installation (Run Locally)
 
 ```bash
-git clone **Add Link Here Soon...**
+git clone https://github.com/nachiket311/Portfolio.git
 cd Portfolio
 npm install
 npm run dev
